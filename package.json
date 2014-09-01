@@ -1,0 +1,18 @@
+{
+  "name": "joshcroad",
+  "version": "0.0.0",
+  "description": "A personal website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joshcroad/joshcroad.git"
+  },
+  "author": "Joshua Croad",
+  "bugs": {
+    "url": "https://github.com/joshcroad/joshcroad/issues"
+  },
+  "homepage": "https://github.com/joshcroad/joshcroad"
+}
